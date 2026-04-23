@@ -2,6 +2,7 @@
 Design a smart, automated, and energy-efficient lighting system that reduces energy wastage by automating lighting decisions based on real-time occupancy and ambient light conditions.
 
 Required hardware components:
+
 Arduino Uno - 1
 USB Cable (Type-B) - 1
 PIR Sensor (HC-SR501) - 1
@@ -22,10 +23,10 @@ Steps to integrate the software, once the hardware is all connected:
 2. Run Arduino code.c file once the USB is connected to both the Arduino and the source. Ensure all the hardware conections are tight to not short any of the components.
 
 Expected Output:
-• Room is dark AND motion is detected → Light turns ON
-• No motion detected → Timer starts counting
-• After 2 seconds of inactivity → Light automatically turns OFF
-• LCD updates occupancy and light status dynamically.
+1. Room is dark AND motion is detected → Light turns ON
+2. No motion detected → Timer starts counting
+3. After 2 seconds of inactivity → Light automatically turns OFF
+4. LCD updates occupancy and light status dynamically.
 
 
 
