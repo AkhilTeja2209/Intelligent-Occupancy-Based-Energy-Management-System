@@ -2,18 +2,17 @@
 Design a smart, automated, and energy-efficient lighting system that reduces energy wastage by automating lighting decisions based on real-time occupancy and ambient light conditions.
 
 Required hardware components:
-
-Arduino Uno - 1
-USB Cable (Type-B) - 1
-PIR Sensor (HC-SR501) - 1
-LDR (Light Dependent Resistor) - 1
-10kΩ Resistor (brown-black-orange) - 1
-16x2 LCD Display with I2C module - 1
-5V Relay Module - 1
-LED (any colour, 5mm) - 1
-220Ω Resistor (red-red-brown) - 1
-Breadboard (large, 830 points) - 1
-Jumper Wires (M-M and M-F pack) - 1 pack each (around 10 wires each)
+1. Arduino Uno - 1
+2. USB Cable (Type-B) - 1
+3. PIR Sensor (HC-SR501) - 1
+4. LDR (Light Dependent Resistor) - 1
+5. 10kΩ Resistor (brown-black-orange) - 1
+6. 16x2 LCD Display with I2C module - 1
+7. 5V Relay Module - 1
+8. LED (any colour, 5mm) - 1
+9. 220Ω Resistor (red-red-brown) - 1
+10. Breadboard (large, 830 points) - 1
+11. Jumper Wires (M-M and M-F pack) - 1 pack each (around 10 wires each)
 
 <img width="1968" height="1070" alt="image" src="https://github.com/user-attachments/assets/dd557ad0-666a-4771-b7d8-3d5559c50502" />
 
