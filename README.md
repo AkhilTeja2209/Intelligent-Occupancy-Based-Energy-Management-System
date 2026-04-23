@@ -14,6 +14,7 @@ Required hardware components:
 10. Breadboard (large, 830 points) - 1
 11. Jumper Wires (M-M and M-F pack) - 1 pack each (around 10 wires each)
 
+
 <img width="1968" height="1070" alt="image" src="https://github.com/user-attachments/assets/dd557ad0-666a-4771-b7d8-3d5559c50502" />
 
 
